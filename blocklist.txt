@@ -42,4 +42,4 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://hosts-file.net/ad_servers.txt
 https://urlhaus.abuse.ch/downloads/hostfile/
-https://pastebin.com/raw/a1TPEPfP		
+https://pastebin.com/raw/a1TPEPfP
